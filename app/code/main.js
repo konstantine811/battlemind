@@ -2,7 +2,7 @@
 * @Author: Admin
 * @Date:   2017-07-19 19:43:56
 * @Last Modified by:   Admin
-* @Last Modified time: 2017-07-20 14:14:46
+* @Last Modified time: 2017-07-20 15:28:53
 */
 
 'use strict';
@@ -13,5 +13,7 @@ $(document).ready(function() {
 		anchors: ['firstPage', 'secondPage', 'thirdPage'],
 		menu: '#menu',
 		scrollOverflow: true,
+		navigation: true,
+		afterLoad: function(link)
 	});
 });
