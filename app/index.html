@@ -1,52 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
-  
-  
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AwareNow</title>
+    <title>ButtleMind</title>
     <link href="style/media.css" rel="stylesheet">
-    <link href="libs/fullpage.js/dist/jquery.fullpage.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="libs/bootstrap/dist/css/bootstrap-grid.min.css" />
     <link href="style/main.css" rel="stylesheet">
   </head>
   <body>
-    <ul id="menu">
-      <li data-menuanchor="firstPage"><a href="#firstPage">First slide</a></li>
-      <li data-menuanchor="secondPage"><a href="#secondPage">Second slide</a></li>
-      <li data-menuanchor="thirdPage"><a href="#thirdPage">third slide</a></li>
-    </ul>
-    <div id="fullpage">
-      <div id="section1" class="section">
-        <div class="intro">
-          <h1>Первая страница</h1>
+    <header>
+      <nav id="btn-menu" class="bt-menu">
+        <a href="" class="bt-menu-trigger"><span></span></a>
+        <ul>
+          <li><a href="#" class="bt-icon icon-zoom">JavaScript</a></li>
+        </ul>
+      </nav>
+      <section class="intro">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <h1 class="title-txt">ButtleMind</h1>
+              <h2 class="title-intro">Вступление</h2>
+              <p class="intro-txt">
+                Привет ребята!! Рад Вас приветствовать на сайте по обучению программированию “BattleMind”. Почему именно такое название, можете вы спросить, - BattleMind - это битва вашего ума против барьера восприимчивости. Барьер восприимчивости, возникает каждый раз как вы встречаете что-нибудь непонятное и незнакомое. Так вот при изучении программировании таких барьеров будет возникать слишком много, и даже не только по началу, а и по всему вашему пути. Только вот начальный путь ваш в программировании можно сравнить с путем блуждения в пустыни, который продолжается месяца а то и годы, спустя которых у вас только начинается вырисовываться общая картина происходящего. И только потом у вас начинается все по немного развеяться, и ваши возможности разрастаются как оазис среди пустыни, постепенно и с удивительно прекрасными возможностями. Так вот на этом сайте, мы постараемся сделать так чтобы ваше блуждание было менее трудоемкое, безопаснее и увлекательнее. Так с чего же мы начнем. Первое обучение будет конечно же с того языка, которое занимает основное мое время это JavaScript. При преподавании я буду пользоваться вырезками из многих книг (которые будут указываться) и весь материал будет построен на их основе. Так в чем же отличие, от того что вы могли бы просто взять эти книги с которых будет идти обучение: 1. Это как можно больше визуализировать материал текстового описания, чтобы больше воздействовать на вашу способность запоминания материала. 2. Сделать это более доступно на всех уровнях обучения. 3. Показывать более наглядные и интересные примеры. 4. Книги которые используются все на английском языке (перевод которых не у всех есть), если вы плохи в английском языке, то для вас будет еще проще обучаться. Хотя с вашим углублением, вам обязательно в дальнейшем выучить английский язык. Есть очень хорошая цитата о китайском языке на эту тематику: - “Для того чтобы почувствовать все красоту и гармонию китайской поэзии, Вам для этого только нужно выучить китайский язык, иначе невозможно эту красоту иначе преподнести”. Так и в программировании, для того, чтобы вам лучше вникать и обучаться программированию без английского языка это будет слишком трудоемко. Так что заварите себе вкусный чай с печеньками, садитесь поудобнее и гоу в увлекательное путешествие по знаниям!.
+              </p>
+            </div>
+          </div>
         </div>
-        <div class="slide">
-          <h1>Cлайд 1</h1>
-        </div>
-        <div class="slide">
-          <h1>Слайд 2</h1>
-        </div>
-        <div class="slide">
-          <h1>Слайд 3</h1>
-        </div>
-      </div>
-      <div id="section2" class="section">
-        <div class="intro">
-          <h1>Вторая страница</h1>
-        </div>
-      </div>
-      <div id="section3" class="section">
-        <div class="intro"><img src="img/user-4.png">
-          <h1>Третья страница</h1>
-          <p>Hello</p>
-        </div>
-      </div>
-    </div>
+      </section>
+    </header>
   </body>
   <script type="text/javascript" src="libs/jquery/dist/jquery.min.js"></script>
-  <script type="text/javascript" src="libs/fullpage.js/vendors/scrolloverflow.min.js"></script>
-  <script type="text/javascript" src="libs/fullpage.js/dist/jquery.fullpage.min.js"></script>
-  <script type="text/javascript" src="libs/jquery-slimscroll/jquery.slimscroll.min.js"></script>
   <script type="text/javascript" src="code/main.js"></script>
 </html>
