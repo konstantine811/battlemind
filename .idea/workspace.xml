@@ -2,160 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6efcbe77-d86b-42ea-9f4f-fd7cf0f37329" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_jadefiles/include/_body.jade" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_jadefiles/include/_footer.jade" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_jadefiles/include/_head.jade" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_jadefiles/include/_mixin.jade" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_jadefiles/include/_variables.jade" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/_jadefiles/index.jade" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/fonts/Lato/Lato-Bold.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/fonts/Lato/Lato-Bold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/fonts/Lato/Lato-Bold.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/fonts/Lato/Lato-Bold.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/fonts/Lato/Lato-BoldItalic.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/fonts/Lato/Lato-Italic.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/fonts/Lato/Lato-Italic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/fonts/Lato/Lato-Italic.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/fonts/Lato/Lato-Italic.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/fonts/Lato/Lato-Light.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/fonts/Lato/Lato-Light.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/fonts/Lato/Lato-Light.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/fonts/Lato/Lato-Light.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/fonts/Lato/Lato-LightItalic.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/fonts/Lato/Lato-LightItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/fonts/Lato/Lato-LightItalic.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/fonts/Lato/Lato-LightItalic.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/fonts/Lato/Lato-Regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/fonts/Lato/Lato-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/fonts/Lato/Lato-Regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/fonts/Lato/Lato-Regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/fonts/SF_NS/SFUIDisplay-Regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/fonts/SF_NS/SFUIDisplay-Regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/fonts/SF_NS/SFUIDisplay-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/fonts/SF_NS/SFUIDisplay-Regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Coach _bg_text.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Coach_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Combined Shape@2x.png.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Easy Scheduling icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Group-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Group.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Group@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Group@2x.png.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Main title.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Mask.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Oval_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Oval_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Oval_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Oval_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Oval_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Path 4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Path 4@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Path 4@2x.png.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Path 4@2x.png.png.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Path 4@2x.png.png.png.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Path 5@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Path 5@2x.png.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Path 5@2x.png.png.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Path 5@2x.png.png.png.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Path.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Path_4.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Private Chat Sessions.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Secure Messaging icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Shape.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Solar_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Solar_bg@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Solar_bg@2x.png.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/Untitled-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/aware-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/aware-wave-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/aware-wave.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/bg_white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/bg_white@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/bg_white@2x.png.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/bg_white@2x.png.png.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/bg_white@2x.png.png.png.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/bg_white@2x.png.png.png.png.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/bgc_head.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/cal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/coaches_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/coaches_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/coaches_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/fg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/how-it-works-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/secure_mes.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/user 2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/user 3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/user-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/user-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/user.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/waves.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/waves@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/fullpage.js/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/fullpage.js/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/fullpage.js/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/fullpage.js/README_SPANISH.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/fullpage.js/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/fullpage.js/dist/jquery.fullpage.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/fullpage.js/dist/jquery.fullpage.extensions.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/fullpage.js/dist/jquery.fullpage.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/fullpage.js/dist/jquery.fullpage.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/fullpage.js/dist/jquery.fullpage.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/fullpage.js/dist/jquery.fullpage.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/fullpage.js/dist/jquery.fullpage.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/fullpage.js/gulpfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/fullpage.js/jquery.fullPage.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/fullpage.js/jquery.fullPage.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/fullpage.js/jquery.fullPage.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/fullpage.js/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/fullpage.js/pure javascript (Alpha)/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/fullpage.js/pure javascript (Alpha)/demo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/fullpage.js/pure javascript (Alpha)/javascript.fullPage.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/fullpage.js/pure javascript (Alpha)/javascript.fullPage.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/fullpage.js/pure javascript (Alpha)/javascript.fullPage.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/fullpage.js/vendors/jquery.easings.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/fullpage.js/vendors/scrolloverflow.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/fullpage.js/vendors/scrolloverflow.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/jquery-slimscroll/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/jquery-slimscroll/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/jquery-slimscroll/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/jquery-slimscroll/examples/allow-page-scroll.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/jquery-slimscroll/examples/chaining.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/jquery-slimscroll/examples/disable-fade-out.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/jquery-slimscroll/examples/dynamic-content.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/jquery-slimscroll/examples/height-width.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/jquery-slimscroll/examples/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/jquery-slimscroll/examples/libs/prettify/prettify.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/jquery-slimscroll/examples/libs/prettify/prettify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/jquery-slimscroll/examples/mouse-wheel.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/jquery-slimscroll/examples/multiple-elements.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/jquery-slimscroll/examples/navigation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/jquery-slimscroll/examples/nested.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/jquery-slimscroll/examples/programmatic-scrolling.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/jquery-slimscroll/examples/rail.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/jquery-slimscroll/examples/scroll-events.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/jquery-slimscroll/examples/scrollbar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/jquery-slimscroll/examples/start-position.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/jquery-slimscroll/examples/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/jquery-slimscroll/jquery.slimscroll.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/jquery-slimscroll/jquery.slimscroll.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/libs/jquery-slimscroll/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/sass/_responsiv_mobile.sass" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/sass/_responsive.sass" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/sass/main.sass" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/sass/media.sass" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/main.js" afterPath="$PROJECT_DIR$/app/code/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/_fonts.sass" afterPath="$PROJECT_DIR$/app/sass/_fonts.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/_variables.sass" afterPath="$PROJECT_DIR$/app/sass/_variables.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/style/main.css" afterPath="$PROJECT_DIR$/app/style/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/style/media.css" afterPath="$PROJECT_DIR$/app/style/media.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -174,16 +22,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="414">
               <caret line="23" column="36" lean-forward="false" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bower.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bower.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -212,8 +50,8 @@
       <file leaf-file-name="main.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/sass/main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="151" column="19" lean-forward="false" selection-start-line="151" selection-start-column="19" selection-end-line="151" selection-end-column="19" />
+            <state relative-caret-position="403">
+              <caret line="153" column="1" lean-forward="false" selection-start-line="153" selection-start-column="1" selection-end-line="153" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -269,53 +107,9 @@
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
-    <package-json value="$PROJECT_DIR$/package.json" />
-  </component>
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
-    <gulpfiles>
-      <GulpfileState>
-        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
-        <tasks>
-          <GulpTaskState>
-            <task-name>sass</task-name>
-          </GulpTaskState>
-          <GulpTaskState>
-            <task-name>clear</task-name>
-          </GulpTaskState>
-          <GulpTaskState>
-            <task-name>img</task-name>
-          </GulpTaskState>
-          <GulpTaskState>
-            <dependencies>
-              <dependency value="img" />
-            </dependencies>
-            <task-name>build</task-name>
-          </GulpTaskState>
-          <GulpTaskState>
-            <dependencies>
-              <dependency value="sass" />
-            </dependencies>
-            <task-name>browserSync</task-name>
-          </GulpTaskState>
-          <GulpTaskState>
-            <task-name>html</task-name>
-          </GulpTaskState>
-          <GulpTaskState>
-            <task-name>watch</task-name>
-          </GulpTaskState>
-          <GulpTaskState>
-            <dependencies>
-              <dependency value="browserSync" />
-              <dependency value="sass" />
-              <dependency value="watch" />
-            </dependencies>
-            <task-name>default</task-name>
-          </GulpTaskState>
-        </tasks>
-      </GulpfileState>
-    </gulpfiles>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
@@ -434,12 +228,12 @@
       <workItem from="1503926020958" duration="6943000" />
       <workItem from="1503999046126" duration="10336000" />
       <workItem from="1504016465670" duration="1927000" />
-      <workItem from="1504261309705" duration="11540000" />
+      <workItem from="1504261309705" duration="12533000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30746000" />
+    <option name="totallyTimeSpent" value="31739000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="899" y="34" width="998" height="1028" extended-state="0" />
@@ -654,14 +448,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="36" lean-forward="false" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/sass/_variables.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -670,10 +456,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="36" lean-forward="false" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/sass/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="151" column="19" lean-forward="false" selection-start-line="151" selection-start-column="19" selection-end-line="151" selection-end-column="19" />
+        <state relative-caret-position="403">
+          <caret line="153" column="1" lean-forward="false" selection-start-line="153" selection-start-column="1" selection-end-line="153" selection-end-column="1" />
           <folding />
         </state>
       </provider>
